@@ -1,15 +1,8 @@
-### Hi there 👋
+Hi there, I'm SOAM 👋 I'm a Devops engineer with a knack for Automation and a proven track record in maintaining and administering DevOps process.
 
-<!--
-**SOM8018/SOM8018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on a Creating Devops related tech resourses
+🌱 I’m currently learning and applying resources.
+👯 I’m looking to 
+🥅 2022 Goals: Have a Good life and concentrate more on my career
+⚡ Fun fact: I love to trade and making videos .
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on IBM INDIA
-- 🌱 I’m currently learning DEVOPS AND PYTHON
-- 👯 I’m looking to collaborate on multiple peoples having good knoweledge on devops
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
